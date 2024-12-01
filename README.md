@@ -23,7 +23,7 @@
 <br />
 - ## Programming Foundations series and HTML and CSS from Linkdin Learning
 
-    - [x] ![#0D64B3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
+    - [x] ![(https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](Linkedin-Learning/Programming-Foundation-Fundamentals/)
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](Linkedin-Learning/Programming-Foundations-Beyond-Fundamentals)
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` Done` ` 1h 45m 30s` - 04 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
@@ -47,9 +47,9 @@
 # MERN Stack
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `39h` - 14 - [The Complete React Developer Course](Udemy/The%20Complete%20React%20Developer%20Course)
-- [ ] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
+- [x] ![#0D64B3](https://via.placeholder.com/12/0D64C3/000000?text=+) `Done` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/) 
+- [x] ![#0D64B3](https://via.placeholder.com/12/0D64C3/000000?text=+) `Done` `39h` - 14 - [The Complete React Developer Course](Udemy/The%20Complete%20React%20Developer%20Course)
+- [x] ![#0D64B3](https://via.placeholder.com/12/0D64C3/000000?text=+) `Done` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue">
 <br />
